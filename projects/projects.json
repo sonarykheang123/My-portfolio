@@ -15,7 +15,7 @@
     "image": "bake",
     "category": "mern",
     "links": {
-      "Website": "https://sonarykheang123.github.io/bakery-website/pages/order.html",
+      "view": "https://sonarykheang123.github.io/bakery-website/pages/order.html",
       "code": "https://github.com/sonarykheang123/bakery-website"
     }
   },
@@ -35,7 +35,7 @@
     "image": "Music",
     "category": "mern",
     "links": {
-      "Website": "https://music-plyer-app.netlify.app/",
+      "view": "https://music-plyer-app.netlify.app/",
       "code": "https://github.com/sonarykheang123/Music-Player-App-G6"
     }},
     {
@@ -61,7 +61,7 @@
     "image": "bake",
     "category": "mern",
     "links": {
-      "Website": "https://sonarykheang123.github.io/bakery-website/pages/order.html",
+      "view": "https://sonarykheang123.github.io/bakery-website/pages/order.html",
       "code": "https://github.com/sonarykheang123/bakery-website"
     }
   },
